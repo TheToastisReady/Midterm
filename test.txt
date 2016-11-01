@@ -1,0 +1,11 @@
+Davis:
+I like apples.
+I like pears.
+I like apples and pears, but not bears.
+I think mechs are cool, and could replace tanks in some areas.
+
+Austin:
+I like tanks.
+I like armor.
+I like armor and tanks.
+Mechs are cool, but tanks are better.
